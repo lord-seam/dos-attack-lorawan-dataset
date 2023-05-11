@@ -1,0 +1,48 @@
+Key references for literature review
+
+1. Join procedure Replay and DOS attack against ED & NS  : Gildas Avoine and Loïc Ferreiras. 2016.Rescuing LoRaWAN 1.0. (2016). https://eprint.iacr.org/2017/651.
+
+2. ABP replay , Bitflipping & Decryption Attack :  Xueying Yang. 2017. LoRaWAN: Vulnerability Analysis and Practical Exploitation
+(MSc thesis, Delft University of Technology). (2017).
+
+3. Downlink routing , beacon and join accept replay attack : Van Es, E., Vranken, H., & Hommersom, A. (2018). Denial-of-Service Attacks on LoRaWAN. In Proceedings ofthe 13th International Conference on Availability, Reliability and Security [17] acm.https://doi.org/10.1145/3230833.3232804.
+
+4. Security analysis of LoRaWAN join procedure : 13.S. Tomasin, S. Zulian and L. Vangelista, “Security Analysis of LoRaWAN Join Procedure for Internet of Things Networks,” 2017 IEEE Wireless Communications and Networking Conference Workshops (WCNCW), San Francisco, CA, 2017, pp. 1-6. doi: 10.1109/WCNCW.2017.7919091
+
+5. Join request message attack scenario and countermeasure : 15.SeungJae Na, DongYeop Hwang, WoonSeob Shin and Ki-Hyung Kim, “Scenario and countermeasure for replay attack using join request messages in LoRaWAN,” 2017 International Conference on Information Networking (ICOIN), Da Nang, 2017, pp. 718-720.
+doi: 10.1109/ICOIN.2017.7899580
+
+6. Preventing replay attacks in LoRaWAN : Kim, J.; Song, J. A simple and efficient replay attack prevention scheme for LoRaWAN. In Proceedings of the 7th International Conference on Communication and Network Security, Tokyo, Japan, 24–26 November 2017; ACM: New York, NY, USA, 2017; pp. 32–36.
+
+7. Protecting node from replay attacks : Sung, W.; Ahn, H.; Kim, J.; Choi, S. Protecting end-device from replay attack on LoRaWAN. In Proceedings of the 20th International Conference on Advanced Communication Technology (ICACT), Chuncheon-si, Gangwon-do, Korea, 11–14 February 2018; IEEE: Piscataway, NJ, USA, 2018; pp. 167–171.
+
+8. Jamming attack in LoRaWAN : S. M. Danish, H. K. Qureshi, and S. Jangsher. Jamming Attack Analysis of Wireless Power Transfer on LoRaWAN Join Procedure. In 2018 IEEE Globecom Workshops (GC Wk
+shps), pages 1–6, December 2018.
+
+9. Formal security analysis of LoRaWAN : Mohamed Eldefrawy, Ismail Butun, Nuno Pereira, and Mikael Gidlund. Formal security analysis of lorawan. Computer Networks, 148:328 – 339, 2019.
+
+10. NIDS for jamming attack in lorawan join procedure : 36.S. M. Danish, A. Nasir, H. K. Qureshi, A. B. Ashfaq, S. Mumtaz, and J. Rodriguez. Net
+work Intrusion Detection System for Jamming Attack in LoRaWAN Join Procedure. In 2018
+IEEE International Conference on Communications (ICC), pages 1–6, May 2018.
+
+11. Elora End-to-End LoRaWAN Emulator : Alessandro Aimi, Stephane Rovedakis, Fabrice Guillemin, Stefano Secci. ELoRa: End-to-end Emulation of Massive IoT LoRaWAN Infrastructures. 2023 IEEE/IFIP Network Operations and Management Symposium (NOMS), May 2023, Miami, FL, United States. hal-04025834
+
+12. Vulnerability analysis of IoT protocols ( LoRaWAN , Sigfox, NB-IoT) : Florian Laurentiu Coman, Krzysztof Mateusz Malarski, Martin Nordal Petersen, and Sarah Ruepp. Security issues in internet of things: Vulnerability analysis of LoRaWAN, Sigfox and NB-IoT. In 2019 Global IoT Summit, pages 1–6. IEEE, 2019
+
+13. LoRaWAN DOS Detection using Machine Learning : Lagat, Sharon. (2023). DETECTING DENIAL OF SERVICE ATTACKS IN LORAWAN Experimental Analysis With Machine Learning Predictive Modelling to Detect Jamming and Collision Attacks on LoRa Networks.
+
+Dataset related
+
+14. Dataset of LoRaWAN traffic and artificially generated attacks : https://zenodo.org/record/6637342#.ZFy5q9JBzys
+
+15. LoRaWAN Dataset traffic analysis Investigation : Spadaccino, P.; Crinó, F.G.; Cuomo, F. LoRaWAN Behaviour Analysis through Dataset Traffic Investigation. Sensors 2022, 22, 2470. https://doi.org/10.3390/s22072470
+
+16. Bhatia, L.; Breza, M.; Marfievici, R.; McCann, J.A. 2020 Dataset LoED the LoRaWAN at the Edge Dataset. In Proceedings of the 3rd International SenSys+BuildSys Workshop on Data Acquisition to Analysis (DATA 2020), Yokohama, Japan, 16 November 2020; ACM: New York, NY, USA, 2020; p. 2.
+
+Additional
+
+1. Wormhole attacks in Wireless Networks : Hu Y.C., Perrig A., Johnson D. Wormhole attacks in wireless networks. IEEE J. Sel. Areas Commun. 2006;24:370–380. doi: 10.1109/JSAC.2005.861394. [CrossRef] [Google Scholar] [Ref list]
+
+2. Practical Wormhole attack : Aras E., Small N., Ramachandran G.S., Delbruel S., Joosen W., Hughes D. Selective jamming of LoRaWAN using commodity hardware; Proceedings of the 14th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services; Melbourne, Australia. 7–10 November 2017; pp. 363–372.
+
+3. LoRaWAN Physical Layer-Based Attacks and Countermeasures, A Review: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9100101/
