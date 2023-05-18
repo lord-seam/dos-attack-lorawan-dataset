@@ -1,4 +1,5 @@
 import sys
+import time
 from scapy.all import *
 
 # Check if the user provided the number of packets to send
@@ -31,5 +32,6 @@ num_times = int(sys.argv[1])
 # Send the packet to the destination IP address and port the specified number of times
 for i in range(num_times):
     send(packet)
+    time.sleep(0)
 
 print(f"Packets sent: {num_times}")
