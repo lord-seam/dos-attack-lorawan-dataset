@@ -42,7 +42,7 @@ execution_time = end_time - start_time
 # Calculate the transmission rate
 transmission_rate =round(num_times / execution_time,1)
 
-print("Join Accept Replay DOS Statistics")
+print("PULL DATA flooding Statistics")
 print(f"Packets sent: {num_times}")
 print(f"Start time: {time.ctime(start_time)}")
 print(f"End time: {time.ctime(end_time)}")
