@@ -1,0 +1,13 @@
+This folder contains attack scripts targeting Gateway and Network Server 
+
+1. Join Accept Replay Script :
+
+Sends replayed join accept payloads to node via gateway.
+
+2. Join Request Replay Script :
+
+Sends replayed join request payload to Network Server 
+
+3. PULL DATA flooding DOS :
+
+Sends replayed pull data header payload to Network Server 
