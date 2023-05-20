@@ -5,6 +5,9 @@ import time
 from scapy.all import *
 
 # Define the destination address and port
+
+src_addr = '192.168.56.102'
+src_port = 56300
 dest_addr = '192.168.56.104'
 dest_port = 1700
 
@@ -17,8 +20,8 @@ payloadx = '02c0ad02b4562d94afcda48d'
 payload = bytes.fromhex(payloadx)
 
 # Define the IP and UDP headers
-ip = IP(dst=dest_addr)
-udp = UDP(dport=dest_port)
+ip = IP(src=src_addr, dst=dest_addr)
+udp = UDP(sport=src_port, dport=dest_port)
 
 # Construct the packet by combining the headers and payload
 packet = ip / udp / payload
