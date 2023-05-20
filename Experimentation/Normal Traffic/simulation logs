@@ -1,0 +1,2751 @@
+[ May 20 10:42:06 ] [SIM]: Setup gateways OK!
+
+[ May 20 10:42:06 ] [SIM]: Setup devices OK!
+
+[ May 20 10:42:06 ] [SIM]: SETUP OK!
+
+[ May 20 10:42:06 ] [SIM]: START
+
+[ May 20 10:42:06 ] GW[seam-gw]: Turn ON
+
+[ May 20 10:42:06 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:42:06 ] DEV[lora node] |Activation| {A}: Turn ON
+
+[ May 20 10:42:06 ] DEV[lora node] |Activation| {A}: JOIN REQUEST sent
+
+[ May 20 10:42:06 ] DEV[lora node] |Activation| {A}: Open RXs
+
+[ May 20 10:42:06 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:42:07 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:42:08 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:42:09 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:42:09 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:42:11 ] DEV[lora node] |Activation| {A}: Downlink received
+
+[ May 20 10:42:11 ] DEV[lora node] |Activation| {A}: Apply CFList
+
+[ May 20 10:42:11 ] DEV[lora node] |Activation| {A}: Set Channel[3] { F[867100000], MinDR[0], MaxDR[5] }
+
+[ May 20 10:42:11 ] DEV[lora node] |Activation| {A}: Set Channel[4] { F[867300000], MinDR[0], MaxDR[5] }
+
+[ May 20 10:42:11 ] DEV[lora node] |Activation| {A}: Set Channel[5] { F[867500000], MinDR[0], MaxDR[5] }
+
+[ May 20 10:42:11 ] DEV[lora node] |Activation| {A}: Set Channel[6] { F[867700000], MinDR[0], MaxDR[5] }
+
+[ May 20 10:42:11 ] DEV[lora node] |Activation| {A}: Set Channel[7] { F[867900000], MinDR[0], MaxDR[5] }
+
+[ May 20 10:42:11 ] DEV[lora node] |Activation| {A}: Joined
+
+[ May 20 10:42:18 ] DEV[lora node] |Normal| {A}: Switch channel from 0 to 7
+
+[ May 20 10:42:18 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:42:18 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:42:18 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:42:19 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:42:20 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:42:20 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:42:20 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:42:20 ] DEV[lora node] |Normal| {A}: Execute MAC Commands
+
+[ May 20 10:42:20 ] DEV[lora node] |Normal| {A}: DevStatusReq | Executed successfully |
+
+[ May 20 10:42:20 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:42:25 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 4
+
+[ May 20 10:42:25 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:42:25 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:42:25 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:42:26 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:42:27 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:42:27 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:42:27 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:42:27 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:42:27 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:42:32 ] DEV[lora node] |Normal| {A}: Switch channel from 4 to 0
+
+[ May 20 10:42:32 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:42:32 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:42:32 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:42:33 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:42:34 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:42:34 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:42:34 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:42:34 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:42:34 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:42:36 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:42:37 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:42:39 ] DEV[lora node] |Normal| {A}: Switch channel from 0 to 4
+
+[ May 20 10:42:39 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:42:39 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:42:39 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:42:40 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:42:41 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:42:41 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:42:41 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:42:41 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:42:41 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:42:46 ] DEV[lora node] |Normal| {A}: Switch channel from 4 to 1
+
+[ May 20 10:42:46 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:42:46 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:42:46 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:42:47 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:42:48 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:42:48 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:42:48 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:42:48 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:42:48 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:42:53 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 2
+
+[ May 20 10:42:53 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:42:53 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:42:53 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:42:54 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:42:55 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:42:55 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:42:55 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:42:55 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:42:55 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:43:00 ] DEV[lora node] |Normal| {A}: Switch channel from 2 to 5
+
+[ May 20 10:43:00 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:43:00 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:43:00 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:43:01 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:43:02 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:43:02 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:43:02 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:43:02 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:43:02 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:43:06 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:43:07 ] DEV[lora node] |Normal| {A}: Switch channel from 5 to 1
+
+[ May 20 10:43:07 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:43:07 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:43:07 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:43:07 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:43:08 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:43:09 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:43:09 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:43:09 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:43:09 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:43:09 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:43:14 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 0
+
+[ May 20 10:43:14 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:43:14 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:43:14 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:43:15 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:43:16 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:43:16 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:43:16 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:43:16 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:43:16 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:43:21 ] DEV[lora node] |Normal| {A}: Switch channel from 0 to 5
+
+[ May 20 10:43:21 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:43:21 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:43:21 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:43:22 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:43:23 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:43:23 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:43:23 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:43:23 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:43:23 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:43:28 ] DEV[lora node] |Normal| {A}: Switch channel from 5 to 4
+
+[ May 20 10:43:28 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:43:28 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:43:28 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:43:29 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:43:30 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:43:30 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:43:30 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:43:30 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:43:30 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:43:35 ] DEV[lora node] |Normal| {A}: Switch channel from 4 to 7
+
+[ May 20 10:43:35 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:43:35 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:43:35 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:43:36 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:43:36 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:43:37 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:43:37 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:43:37 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:43:37 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:43:37 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:43:38 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:43:42 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 4
+
+[ May 20 10:43:42 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:43:42 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:43:42 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:43:43 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:43:44 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:43:44 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:43:44 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:43:44 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:43:44 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:43:49 ] DEV[lora node] |Normal| {A}: Switch channel from 4 to 6
+
+[ May 20 10:43:49 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:43:49 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:43:49 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:43:50 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:43:51 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:43:51 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:43:51 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:43:51 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:43:51 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:43:56 ] DEV[lora node] |Normal| {A}: Switch channel from 6 to 3
+
+[ May 20 10:43:56 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:43:56 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:43:56 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:43:57 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:43:58 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:43:58 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:43:58 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:43:58 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:43:58 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:44:03 ] DEV[lora node] |Normal| {A}: Switch channel from 3 to 4
+
+[ May 20 10:44:03 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:44:03 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:44:03 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:44:04 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:44:05 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:44:05 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:44:05 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:44:05 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:44:05 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:44:06 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:44:07 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:44:10 ] DEV[lora node] |Normal| {A}: Switch channel from 4 to 3
+
+[ May 20 10:44:10 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:44:10 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:44:10 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:44:11 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:44:12 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:44:12 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:44:12 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:44:12 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:44:12 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:44:17 ] DEV[lora node] |Normal| {A}: Switch channel from 3 to 7
+
+[ May 20 10:44:17 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:44:17 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:44:17 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:44:18 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:44:19 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:44:19 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:44:19 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:44:19 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:44:19 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:44:24 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 5
+
+[ May 20 10:44:24 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:44:24 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:44:24 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:44:25 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:44:26 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:44:26 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:44:26 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:44:26 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:44:26 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:44:31 ] DEV[lora node] |Normal| {A}: Switch channel from 5 to 7
+
+[ May 20 10:44:31 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:44:31 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:44:31 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:44:32 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:44:33 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:44:33 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:44:33 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:44:33 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:44:33 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:44:36 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:44:37 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:44:38 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 2
+
+[ May 20 10:44:38 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:44:38 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:44:38 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:44:39 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:44:40 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:44:40 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:44:40 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:44:40 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:44:40 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:44:45 ] DEV[lora node] |Normal| {A}: Switch channel from 2 to 5
+
+[ May 20 10:44:45 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:44:45 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:44:45 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:44:46 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:44:47 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:44:48 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:44:48 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:44:48 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:44:48 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:44:52 ] DEV[lora node] |Normal| {A}: Switch channel from 5 to 2
+
+[ May 20 10:44:52 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:44:52 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:44:52 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:44:53 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:44:54 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:44:54 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:44:54 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:44:54 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:44:54 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:44:59 ] DEV[lora node] |Normal| {A}: Switch channel from 2 to 5
+
+[ May 20 10:44:59 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:44:59 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:44:59 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:45:00 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:45:01 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:45:01 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:45:01 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:45:01 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:45:01 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:45:06 ] DEV[lora node] |Normal| {A}: Switch channel from 5 to 2
+
+[ May 20 10:45:06 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:45:06 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:45:06 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:45:06 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:45:07 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:45:08 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:45:09 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:45:09 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:45:09 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:45:09 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:45:09 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:45:13 ] DEV[lora node] |Normal| {A}: Switch channel from 2 to 5
+
+[ May 20 10:45:13 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:45:13 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:45:13 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:45:14 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:45:15 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:45:15 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:45:15 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:45:15 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:45:15 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:45:20 ] DEV[lora node] |Normal| {A}: Switch channel from 5 to 4
+
+[ May 20 10:45:20 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:45:20 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:45:20 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:45:21 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:45:22 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:45:22 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:45:22 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:45:22 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:45:22 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:45:27 ] DEV[lora node] |Normal| {A}: Switch channel from 4 to 6
+
+[ May 20 10:45:27 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:45:27 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:45:27 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:45:28 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:45:29 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:45:29 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:45:29 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:45:29 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:45:29 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:45:34 ] DEV[lora node] |Normal| {A}: Switch channel from 6 to 3
+
+[ May 20 10:45:34 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:45:34 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:45:34 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:45:35 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:45:36 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:45:37 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:45:37 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:45:37 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:45:37 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:45:37 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:45:38 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:45:41 ] DEV[lora node] |Normal| {A}: Switch channel from 3 to 5
+
+[ May 20 10:45:41 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:45:41 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:45:41 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:45:42 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:45:43 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:45:43 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:45:43 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:45:43 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:45:43 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:45:48 ] DEV[lora node] |Normal| {A}: Switch channel from 5 to 2
+
+[ May 20 10:45:48 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:45:48 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:45:48 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:45:49 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:45:50 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:45:50 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:45:50 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:45:50 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:45:50 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:45:55 ] DEV[lora node] |Normal| {A}: Switch channel from 2 to 0
+
+[ May 20 10:45:55 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:45:55 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:45:55 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:45:56 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:45:57 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:45:57 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:45:57 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:45:57 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:45:57 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:46:02 ] DEV[lora node] |Normal| {A}: Switch channel from 0 to 7
+
+[ May 20 10:46:02 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:46:02 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:46:02 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:46:03 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:46:04 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:46:04 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:46:04 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:46:04 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:46:04 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:46:06 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:46:07 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:46:09 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 3
+
+[ May 20 10:46:09 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:46:09 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:46:09 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:46:10 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:46:11 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:46:11 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:46:11 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:46:11 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:46:11 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:46:16 ] DEV[lora node] |Normal| {A}: Switch channel from 3 to 5
+
+[ May 20 10:46:16 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:46:16 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:46:16 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:46:17 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:46:18 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:46:18 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:46:18 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:46:18 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:46:18 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:46:23 ] DEV[lora node] |Normal| {A}: Switch channel from 5 to 7
+
+[ May 20 10:46:23 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:46:23 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:46:23 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:46:24 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:46:25 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:46:25 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:46:25 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:46:25 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:46:25 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:46:30 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 4
+
+[ May 20 10:46:30 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:46:30 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:46:30 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:46:31 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:46:32 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:46:32 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:46:32 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:46:32 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:46:32 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:46:36 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:46:37 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:46:37 ] DEV[lora node] |Normal| {A}: Switch channel from 4 to 3
+
+[ May 20 10:46:37 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:46:37 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:46:37 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:46:38 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:46:39 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:46:39 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:46:39 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:46:39 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:46:39 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:46:44 ] DEV[lora node] |Normal| {A}: Switch channel from 3 to 7
+
+[ May 20 10:46:44 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:46:44 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:46:44 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:46:45 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:46:46 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:46:46 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:46:46 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:46:46 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:46:46 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:46:51 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 1
+
+[ May 20 10:46:51 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:46:51 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:46:51 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:46:52 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:46:53 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:46:53 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:46:53 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:46:53 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:46:53 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:46:58 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 2
+
+[ May 20 10:46:58 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:46:58 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:46:58 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:46:59 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:47:00 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:47:00 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:47:00 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:47:00 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:47:00 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:47:05 ] DEV[lora node] |Normal| {A}: Switch channel from 2 to 7
+
+[ May 20 10:47:05 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:47:05 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:47:05 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:47:06 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:47:07 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:47:08 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:47:08 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:47:08 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:47:08 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:47:08 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:47:09 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:47:12 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 0
+
+[ May 20 10:47:12 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:47:12 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:47:12 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:47:13 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:47:14 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:47:14 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:47:14 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:47:14 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:47:14 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:47:19 ] DEV[lora node] |Normal| {A}: Switch channel from 0 to 4
+
+[ May 20 10:47:19 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:47:19 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:47:19 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:47:21 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:47:22 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:47:22 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:47:22 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:47:22 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:47:22 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:47:26 ] DEV[lora node] |Normal| {A}: Switch channel from 4 to 6
+
+[ May 20 10:47:26 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:47:26 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:47:26 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:47:27 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:47:29 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:47:29 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:47:29 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:47:29 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:47:29 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:47:33 ] DEV[lora node] |Normal| {A}: Switch channel from 6 to 3
+
+[ May 20 10:47:33 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:47:33 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:47:33 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:47:34 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:47:35 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:47:35 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:47:35 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:47:35 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:47:35 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:47:36 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:47:37 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:47:40 ] DEV[lora node] |Normal| {A}: Switch channel from 3 to 1
+
+[ May 20 10:47:40 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:47:40 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:47:40 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:47:41 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:47:42 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:47:42 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:47:42 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:47:42 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:47:42 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:47:47 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 6
+
+[ May 20 10:47:47 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:47:47 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:47:47 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:47:48 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:47:49 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:47:49 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:47:49 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:47:49 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:47:49 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:47:54 ] DEV[lora node] |Normal| {A}: Switch channel from 6 to 0
+
+[ May 20 10:47:54 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:47:54 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:47:54 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:47:55 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:47:57 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:47:57 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:47:57 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:47:57 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:47:57 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:48:01 ] DEV[lora node] |Normal| {A}: Switch channel from 0 to 7
+
+[ May 20 10:48:01 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:48:01 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:48:01 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:48:02 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:48:03 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:48:03 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:48:03 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:48:03 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:48:03 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:48:06 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:48:07 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:48:08 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 1
+
+[ May 20 10:48:08 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:48:08 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:48:08 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:48:09 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:48:10 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:48:10 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:48:10 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:48:10 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:48:10 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:48:15 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 2
+
+[ May 20 10:48:15 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:48:15 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:48:15 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:48:16 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:48:17 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:48:17 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:48:17 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:48:18 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:48:18 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:48:22 ] DEV[lora node] |Normal| {A}: Switch channel from 2 to 7
+
+[ May 20 10:48:22 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:48:22 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:48:22 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:48:23 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:48:24 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:48:24 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:48:24 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:48:24 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:48:24 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:48:29 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 0
+
+[ May 20 10:48:29 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:48:29 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:48:29 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:48:30 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:48:31 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:48:31 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:48:31 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:48:31 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:48:31 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:48:36 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:48:36 ] DEV[lora node] |Normal| {A}: Switch channel from 0 to 2
+
+[ May 20 10:48:36 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:48:36 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:48:36 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:48:37 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:48:38 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:48:39 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:48:39 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:48:39 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:48:39 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:48:39 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:48:43 ] DEV[lora node] |Normal| {A}: Switch channel from 2 to 0
+
+[ May 20 10:48:43 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:48:43 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:48:43 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:48:44 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:48:45 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:48:45 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:48:45 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:48:45 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:48:45 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:48:50 ] DEV[lora node] |Normal| {A}: Switch channel from 0 to 4
+
+[ May 20 10:48:50 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:48:50 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:48:50 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:48:51 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:48:52 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:48:52 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:48:52 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:48:52 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:48:52 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:48:57 ] DEV[lora node] |Normal| {A}: Switch channel from 4 to 3
+
+[ May 20 10:48:57 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:48:57 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:48:57 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:48:58 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:48:59 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:48:59 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:48:59 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:48:59 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:48:59 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:49:04 ] DEV[lora node] |Normal| {A}: Switch channel from 3 to 4
+
+[ May 20 10:49:04 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:49:04 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:49:04 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:49:05 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:49:06 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:49:06 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:49:06 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:49:06 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:49:06 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:49:06 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:49:07 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:49:11 ] DEV[lora node] |Normal| {A}: Switch channel from 4 to 2
+
+[ May 20 10:49:11 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:49:11 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:49:11 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:49:12 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:49:13 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:49:13 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:49:13 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:49:13 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:49:13 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:49:18 ] DEV[lora node] |Normal| {A}: Switch channel from 2 to 7
+
+[ May 20 10:49:18 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:49:18 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:49:18 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:49:19 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:49:20 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:49:20 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:49:20 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:49:20 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:49:20 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:49:25 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 1
+
+[ May 20 10:49:25 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:49:25 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:49:25 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:49:26 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:49:27 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:49:27 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:49:27 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:49:27 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:49:27 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:49:32 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 4
+
+[ May 20 10:49:32 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:49:32 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:49:32 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:49:33 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:49:34 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:49:34 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:49:34 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:49:34 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:49:34 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:49:36 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:49:37 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:49:39 ] DEV[lora node] |Normal| {A}: Switch channel from 4 to 7
+
+[ May 20 10:49:39 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:49:39 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:49:39 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:49:40 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:49:41 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:49:41 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:49:41 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:49:41 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:49:41 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:49:46 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 1
+
+[ May 20 10:49:46 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:49:46 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:49:46 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:49:47 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:49:48 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:49:48 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:49:48 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:49:48 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:49:48 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:49:53 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 6
+
+[ May 20 10:49:53 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:49:53 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:49:53 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:49:54 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:49:55 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:49:55 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:49:55 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:49:55 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:49:55 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:50:00 ] DEV[lora node] |Normal| {A}: Switch channel from 6 to 2
+
+[ May 20 10:50:00 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:50:00 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:50:00 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:50:01 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:50:02 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:50:02 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:50:02 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:50:02 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:50:02 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:50:06 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:50:07 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:50:07 ] DEV[lora node] |Normal| {A}: Switch channel from 2 to 4
+
+[ May 20 10:50:07 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:50:07 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:50:07 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:50:08 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:50:09 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:50:09 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:50:09 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:50:09 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:50:09 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:50:14 ] DEV[lora node] |Normal| {A}: Switch channel from 4 to 5
+
+[ May 20 10:50:14 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:50:14 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:50:14 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:50:15 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:50:16 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:50:16 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:50:16 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:50:16 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:50:16 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:50:21 ] DEV[lora node] |Normal| {A}: Switch channel from 5 to 2
+
+[ May 20 10:50:21 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:50:21 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:50:21 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:50:22 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:50:23 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:50:23 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:50:23 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:50:23 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:50:23 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:50:28 ] DEV[lora node] |Normal| {A}: Switch channel from 2 to 7
+
+[ May 20 10:50:28 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:50:28 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:50:28 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:50:29 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:50:30 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:50:30 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:50:30 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:50:30 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:50:30 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:50:35 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 2
+
+[ May 20 10:50:35 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:50:35 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:50:35 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:50:36 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:50:36 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:50:37 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:50:37 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:50:37 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:50:37 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:50:37 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:50:38 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:50:42 ] DEV[lora node] |Normal| {A}: Switch channel from 2 to 1
+
+[ May 20 10:50:42 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:50:42 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:50:42 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:50:43 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:50:44 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:50:44 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:50:44 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:50:44 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:50:44 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:50:49 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 2
+
+[ May 20 10:50:49 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:50:49 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:50:49 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:50:50 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:50:51 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:50:51 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:50:51 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:50:51 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:50:51 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:50:56 ] DEV[lora node] |Normal| {A}: Switch channel from 2 to 5
+
+[ May 20 10:50:56 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:50:56 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:50:56 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:50:57 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:50:58 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:50:58 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:50:58 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:50:58 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:50:58 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:51:03 ] DEV[lora node] |Normal| {A}: Switch channel from 5 to 0
+
+[ May 20 10:51:03 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:51:03 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:51:03 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:51:04 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:51:05 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:51:05 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:51:05 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:51:05 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:51:05 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:51:06 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:51:07 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:51:10 ] DEV[lora node] |Normal| {A}: Switch channel from 0 to 7
+
+[ May 20 10:51:10 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:51:10 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:51:10 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:51:11 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:51:12 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:51:12 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:51:12 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:51:12 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:51:12 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:51:17 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 4
+
+[ May 20 10:51:17 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:51:17 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:51:17 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:51:18 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:51:19 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:51:19 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:51:19 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:51:20 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:51:20 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:51:24 ] DEV[lora node] |Normal| {A}: Switch channel from 4 to 2
+
+[ May 20 10:51:24 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:51:24 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:51:24 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:51:25 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:51:26 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:51:26 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:51:26 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:51:26 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:51:26 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:51:31 ] DEV[lora node] |Normal| {A}: Switch channel from 2 to 7
+
+[ May 20 10:51:31 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:51:31 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:51:31 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:51:32 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:51:33 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:51:33 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:51:33 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:51:33 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:51:33 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:51:36 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:51:37 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:51:38 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 6
+
+[ May 20 10:51:38 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:51:38 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:51:38 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:51:39 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:51:40 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:51:40 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:51:40 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:51:40 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:51:40 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:51:45 ] DEV[lora node] |Normal| {A}: Switch channel from 6 to 2
+
+[ May 20 10:51:45 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:51:45 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:51:45 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:51:46 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:51:47 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:51:47 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:51:47 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:51:47 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:51:47 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:51:52 ] DEV[lora node] |Normal| {A}: Switch channel from 2 to 3
+
+[ May 20 10:51:52 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:51:52 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:51:52 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:51:54 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:51:55 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:51:55 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:51:55 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:51:55 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:51:55 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:51:59 ] DEV[lora node] |Normal| {A}: Switch channel from 3 to 6
+
+[ May 20 10:51:59 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:51:59 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:51:59 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:52:00 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:52:01 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:52:01 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:52:01 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:52:01 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:52:01 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:52:06 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:52:06 ] DEV[lora node] |Normal| {A}: Switch channel from 6 to 1
+
+[ May 20 10:52:06 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:52:06 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:52:06 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:52:07 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:52:08 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:52:09 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:52:09 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:52:09 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:52:09 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:52:09 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:52:13 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 5
+
+[ May 20 10:52:13 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:52:13 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:52:13 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:52:14 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:52:15 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:52:15 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:52:15 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:52:15 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:52:15 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:52:20 ] DEV[lora node] |Normal| {A}: Switch channel from 5 to 0
+
+[ May 20 10:52:20 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:52:20 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:52:20 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:52:21 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:52:22 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:52:22 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:52:22 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:52:22 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:52:22 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:52:27 ] DEV[lora node] |Normal| {A}: Switch channel from 0 to 7
+
+[ May 20 10:52:27 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:52:27 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:52:27 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:52:28 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:52:29 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:52:29 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:52:29 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:52:29 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:52:29 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:52:34 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 1
+
+[ May 20 10:52:34 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:52:34 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:52:34 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:52:35 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:52:36 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:52:36 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:52:36 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:52:36 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:52:36 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:52:36 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:52:37 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:52:41 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 3
+
+[ May 20 10:52:41 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:52:41 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:52:41 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:52:42 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:52:43 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:52:43 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:52:43 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:52:43 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:52:43 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:52:48 ] DEV[lora node] |Normal| {A}: Switch channel from 3 to 6
+
+[ May 20 10:52:48 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:52:48 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:52:48 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:52:49 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:52:50 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:52:50 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:52:50 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:52:50 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:52:50 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:52:55 ] DEV[lora node] |Normal| {A}: Switch channel from 6 to 0
+
+[ May 20 10:52:55 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:52:55 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:52:55 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:52:56 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:52:57 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:52:57 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:52:57 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:52:57 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:52:57 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:53:02 ] DEV[lora node] |Normal| {A}: Switch channel from 0 to 3
+
+[ May 20 10:53:02 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:53:02 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:53:02 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:53:03 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:53:04 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:53:04 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:53:04 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:53:04 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:53:04 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:53:06 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:53:07 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:53:09 ] DEV[lora node] |Normal| {A}: Switch channel from 3 to 4
+
+[ May 20 10:53:09 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:53:09 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:53:09 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:53:10 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:53:11 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:53:11 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:53:11 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:53:11 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:53:11 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:53:16 ] DEV[lora node] |Normal| {A}: Switch channel from 4 to 3
+
+[ May 20 10:53:16 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:53:16 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:53:16 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:53:17 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:53:18 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:53:18 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:53:18 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:53:18 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:53:18 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:53:23 ] DEV[lora node] |Normal| {A}: Switch channel from 3 to 0
+
+[ May 20 10:53:23 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:53:23 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:53:23 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:53:24 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:53:25 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:53:25 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:53:25 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:53:25 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:53:25 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:53:30 ] DEV[lora node] |Normal| {A}: Switch channel from 0 to 4
+
+[ May 20 10:53:30 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:53:30 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:53:30 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:53:31 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:53:32 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:53:32 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:53:32 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:53:32 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:53:32 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:53:36 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:53:37 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:53:37 ] DEV[lora node] |Normal| {A}: Switch channel from 4 to 1
+
+[ May 20 10:53:37 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:53:37 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:53:37 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:53:38 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:53:39 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:53:39 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:53:39 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:53:39 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:53:39 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:53:44 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 3
+
+[ May 20 10:53:44 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:53:44 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:53:44 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:53:45 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:53:46 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:53:46 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:53:46 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:53:46 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:53:46 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:53:51 ] DEV[lora node] |Normal| {A}: Switch channel from 3 to 0
+
+[ May 20 10:53:51 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:53:51 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:53:51 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:53:52 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:53:53 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:53:53 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:53:53 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:53:53 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:53:53 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:53:58 ] DEV[lora node] |Normal| {A}: Switch channel from 0 to 5
+
+[ May 20 10:53:58 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:53:58 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:53:58 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:53:59 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:54:00 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:54:00 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:54:00 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:54:00 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:54:00 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:54:05 ] DEV[lora node] |Normal| {A}: Switch channel from 5 to 1
+
+[ May 20 10:54:05 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:54:05 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:54:05 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:54:06 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:54:06 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:54:07 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:54:07 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:54:07 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:54:07 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:54:07 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:54:09 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:54:12 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 6
+
+[ May 20 10:54:12 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:54:12 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:54:12 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:54:13 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:54:14 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:54:14 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:54:14 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:54:14 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:54:14 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:54:19 ] DEV[lora node] |Normal| {A}: Switch channel from 6 to 5
+
+[ May 20 10:54:19 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:54:19 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:54:19 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:54:20 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:54:21 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:54:21 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:54:21 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:54:21 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:54:21 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:54:26 ] DEV[lora node] |Normal| {A}: Switch channel from 5 to 0
+
+[ May 20 10:54:26 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:54:26 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:54:26 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:54:27 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:54:28 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:54:28 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:54:28 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:54:28 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:54:28 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:54:33 ] DEV[lora node] |Normal| {A}: Switch channel from 0 to 7
+
+[ May 20 10:54:33 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:54:33 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:54:33 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:54:34 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:54:35 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:54:35 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:54:35 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:54:35 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:54:35 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:54:36 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:54:37 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:54:40 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 6
+
+[ May 20 10:54:40 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:54:40 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:54:40 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:54:41 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:54:42 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:54:42 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:54:42 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:54:42 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:54:42 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:54:47 ] DEV[lora node] |Normal| {A}: Switch channel from 6 to 5
+
+[ May 20 10:54:47 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:54:47 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:54:47 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:54:48 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:54:49 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:54:49 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:54:49 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:54:49 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:54:49 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:54:54 ] DEV[lora node] |Normal| {A}: Switch channel from 5 to 7
+
+[ May 20 10:54:54 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:54:54 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:54:54 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:54:55 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:54:56 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:54:56 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:54:56 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:54:56 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:54:56 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:55:01 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 6
+
+[ May 20 10:55:01 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:55:01 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:55:01 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:55:02 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:55:03 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:55:03 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:55:03 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:55:03 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:55:03 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:55:06 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:55:07 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:55:08 ] DEV[lora node] |Normal| {A}: Switch channel from 6 to 0
+
+[ May 20 10:55:08 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:55:08 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:55:08 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:55:09 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:55:10 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:55:10 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:55:10 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:55:10 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:55:10 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:55:15 ] DEV[lora node] |Normal| {A}: Switch channel from 0 to 1
+
+[ May 20 10:55:15 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:55:15 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:55:15 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:55:16 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:55:17 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:55:17 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:55:17 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:55:17 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:55:17 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:55:22 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 6
+
+[ May 20 10:55:22 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:55:22 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:55:22 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:55:23 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:55:24 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:55:24 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:55:24 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:55:24 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:55:24 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:55:29 ] DEV[lora node] |Normal| {A}: Switch channel from 6 to 5
+
+[ May 20 10:55:29 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:55:29 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:55:29 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:55:30 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:55:31 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:55:31 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:55:31 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:55:31 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:55:31 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:55:36 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:55:36 ] DEV[lora node] |Normal| {A}: Switch channel from 5 to 7
+
+[ May 20 10:55:36 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:55:36 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:55:36 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:55:37 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:55:38 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:55:39 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:55:39 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:55:39 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:55:39 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:55:39 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:55:43 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 1
+
+[ May 20 10:55:43 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:55:44 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:55:44 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:55:45 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:55:46 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:55:46 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:55:46 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:55:46 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:55:46 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:55:50 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 0
+
+[ May 20 10:55:50 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:55:50 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:55:50 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:55:51 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:55:52 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:55:52 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:55:52 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:55:52 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:55:52 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:55:57 ] DEV[lora node] |Normal| {A}: Switch channel from 0 to 2
+
+[ May 20 10:55:57 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:55:57 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:55:57 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:55:58 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:55:59 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:55:59 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:55:59 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:55:59 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:55:59 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:56:04 ] DEV[lora node] |Normal| {A}: Switch channel from 2 to 1
+
+[ May 20 10:56:04 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:56:04 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:56:04 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:56:05 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:56:06 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:56:06 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:56:06 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:56:06 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:56:06 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:56:06 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:56:07 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:56:11 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 2
+
+[ May 20 10:56:11 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:56:11 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:56:11 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:56:12 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:56:13 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:56:13 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:56:13 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:56:13 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:56:13 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:56:18 ] DEV[lora node] |Normal| {A}: Switch channel from 2 to 0
+
+[ May 20 10:56:18 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:56:18 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:56:18 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:56:19 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:56:20 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:56:20 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:56:20 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:56:20 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:56:20 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:56:25 ] DEV[lora node] |Normal| {A}: Switch channel from 0 to 4
+
+[ May 20 10:56:25 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:56:25 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:56:25 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:56:26 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:56:27 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:56:27 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:56:27 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:56:27 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:56:27 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:56:32 ] DEV[lora node] |Normal| {A}: Switch channel from 4 to 5
+
+[ May 20 10:56:32 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:56:32 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:56:32 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:56:33 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:56:34 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:56:34 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:56:34 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:56:34 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:56:34 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:56:36 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:56:37 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:56:39 ] DEV[lora node] |Normal| {A}: Switch channel from 5 to 1
+
+[ May 20 10:56:39 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:56:39 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:56:39 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:56:40 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:56:41 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:56:41 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:56:41 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:56:41 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:56:41 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:56:46 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 5
+
+[ May 20 10:56:46 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:56:46 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:56:46 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:56:47 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:56:48 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:56:48 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:56:48 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:56:48 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:56:48 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:56:53 ] DEV[lora node] |Normal| {A}: Switch channel from 5 to 4
+
+[ May 20 10:56:53 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:56:53 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:56:53 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:56:54 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:56:55 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:56:55 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:56:55 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:56:55 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:56:55 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:57:00 ] DEV[lora node] |Normal| {A}: Switch channel from 4 to 5
+
+[ May 20 10:57:00 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:57:00 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:57:00 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:57:01 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:57:02 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:57:02 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:57:02 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:57:02 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:57:02 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:57:06 ] GW[seam-gw]: PULL DATA send
+
+[ May 20 10:57:07 ] GW[seam-gw]: PULL ACK received
+
+[ May 20 10:57:07 ] DEV[lora node] |Normal| {A}: Switch channel from 5 to 3
+
+[ May 20 10:57:07 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:57:07 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:57:07 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:57:08 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:57:09 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:57:09 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:57:09 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:57:09 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:57:09 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:57:14 ] DEV[lora node] |Normal| {A}: Switch channel from 3 to 7
+
+[ May 20 10:57:14 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 20 10:57:14 ] GW[seam-gw]: PUSH DATA send
+
+[ May 20 10:57:14 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 20 10:57:15 ] GW[seam-gw]: PUSH ACK received
+
+[ May 20 10:57:16 ] GW[seam-gw]: PULL RESP received
+
+[ May 20 10:57:16 ] GW[seam-gw]: TX ACK sent
+
+[ May 20 10:57:16 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 20 10:57:16 ] DEV[lora node] |Normal| {A}: None MAC Command
+
+[ May 20 10:57:16 ] DEV[lora node] |Normal| {A}: Fpending unset
+
+[ May 20 10:57:21 ] GW[seam-gw]: Turn OFF
+
+[ May 20 10:57:21 ] DEV[lora node] |Normal| {A}: Turn OFF
+
+[ May 20 10:57:21 ] [SIM]: STOPPED
