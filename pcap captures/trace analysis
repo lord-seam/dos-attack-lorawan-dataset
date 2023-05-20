@@ -1,1 +1,47 @@
 Pcap capture folder containing traffic capture files for normal and attack traces
+
+To produce traces :
+
+1. Run tcpdump capture script :
+ex. sudo tcpdump -AUq -i enp0s8 port 56300 or port 1700 -w pulldataflooding.pcap
+
+2. Run LWN Simulator via Web GUI :
+
+3. Wait for Join Procedure and some data exchange to complete & Run attack script :
+sudo python3 attack_script.py XXXXXX : ( XXXXX = number of packets to send to target )
+
+In script set source and destination IP and port , payload , Transmission Delay.
+
+4. Monitor LWN Simulator logs on Web GUI & Chirpstack Console
+
+Wait for normal conditions to return after launching attack script
+
+5. Stop LWN Simulator 
+
+6. Stop tcpdump capture
+
+
+
+
+To produce graphs of on wireshark
+
+1. Statistics --> I/O Graphs
+
+
+To get a visual representation of flows between systems
+
+2. Statistics --> Flow Graphs
+
+
+To get statistics for each capture 
+
+3. Statistics --> Conversations
+
+
+To extract payload for replay attack
+
+4. Right click on packet --> Follow --> UDP Streams --> Show data as Raw/Hex Dump / ASCII --> Copy corresponding Raw payload to script
+
+
+
+
