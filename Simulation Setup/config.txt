@@ -1,0 +1,18 @@
+AppKey : e0500f4e614a81fe29341e17a7eb8e1b
+
+DevEUI : 83717b8a131c5173
+
+Disabled frame-counter validation
+
+LoRaWAN 1.0
+
+FPort 1
+
+
+Gateway 
+
+b4562d94afcda48d
+
+
+
+mksfpyzntxvbcmbp

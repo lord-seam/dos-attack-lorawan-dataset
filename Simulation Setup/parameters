@@ -1,0 +1,10 @@
+
+DevEUI : 83717b8a131c5173
+
+AppKey : e0500f4e614a81fe29341e17a7eb8e1b
+
+GatewayEUI : b4562d94afcda48d
+
+
+11
+seam@seam-malnode:~/Desktop$ sudo tcpdump -AUq -i enp0s8 port 56300 or port 1700 -w jacceptreplay.pcap
