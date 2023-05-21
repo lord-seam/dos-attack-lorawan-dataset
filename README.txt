@@ -20,6 +20,7 @@ A folder containing the attacks scripts used to perform the replay DOS attacks o
 a. join request dos replay attack
 b. join accept dos replay attack
 c. pull_data dos replay attack
+d. join request flooding attack
 
 
 3. Packet capture folder
