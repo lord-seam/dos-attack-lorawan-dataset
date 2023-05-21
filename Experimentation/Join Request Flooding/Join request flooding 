@@ -1,0 +1,2413 @@
+[ May 21 09:46:24 ] [SIM]: Setup gateways OK!
+
+[ May 21 09:46:24 ] [SIM]: Setup devices OK!
+
+[ May 21 09:46:24 ] [SIM]: SETUP OK!
+
+[ May 21 09:46:24 ] [SIM]: START
+
+[ May 21 09:46:24 ] GW[seam-gw]: Turn ON
+
+[ May 21 09:46:24 ] GW[seam-gw]: PULL DATA send
+
+[ May 21 09:46:24 ] DEV[lora node] |Activation| {A}: Turn ON
+
+[ May 21 09:46:24 ] DEV[lora node] |Activation| {A}: JOIN REQUEST sent
+
+[ May 21 09:46:24 ] DEV[lora node] |Activation| {A}: Open RXs
+
+[ May 21 09:46:24 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:46:25 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:46:26 ] GW[seam-gw]: PULL ACK received
+
+[ May 21 09:46:27 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:46:27 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:46:29 ] DEV[lora node] |Activation| {A}: Downlink received
+
+[ May 21 09:46:29 ] DEV[lora node] |Activation| {A}: Apply CFList
+
+[ May 21 09:46:29 ] DEV[lora node] |Activation| {A}: Set Channel[3] { F[867100000], MinDR[0], MaxDR[5] }
+
+[ May 21 09:46:29 ] DEV[lora node] |Activation| {A}: Set Channel[4] { F[867300000], MinDR[0], MaxDR[5] }
+
+[ May 21 09:46:29 ] DEV[lora node] |Activation| {A}: Set Channel[5] { F[867500000], MinDR[0], MaxDR[5] }
+
+[ May 21 09:46:29 ] DEV[lora node] |Activation| {A}: Set Channel[6] { F[867700000], MinDR[0], MaxDR[5] }
+
+[ May 21 09:46:29 ] DEV[lora node] |Activation| {A}: Set Channel[7] { F[867900000], MinDR[0], MaxDR[5] }
+
+[ May 21 09:46:29 ] DEV[lora node] |Activation| {A}: Joined
+
+[ May 21 09:46:36 ] DEV[lora node] |Normal| {A}: Switch channel from 0 to 3
+
+[ May 21 09:46:36 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:46:36 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:46:36 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:46:37 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:46:38 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:46:38 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:46:38 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:46:38 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:46:43 ] DEV[lora node] |Normal| {A}: Switch channel from 3 to 2
+
+[ May 21 09:46:43 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:46:43 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:46:43 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:46:44 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:46:45 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:46:45 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:46:45 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:46:45 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:46:50 ] DEV[lora node] |Normal| {A}: Switch channel from 2 to 7
+
+[ May 21 09:46:50 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:46:50 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:46:50 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:46:51 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:46:52 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:46:52 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:46:52 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:46:52 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:46:54 ] GW[seam-gw]: PULL DATA send
+
+[ May 21 09:46:55 ] GW[seam-gw]: PULL ACK received
+
+[ May 21 09:46:57 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 6
+
+[ May 21 09:46:57 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:46:57 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:46:57 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:46:58 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:46:59 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:46:59 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:46:59 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:46:59 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:47:04 ] DEV[lora node] |Normal| {A}: Switch channel from 6 to 2
+
+[ May 21 09:47:04 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:47:04 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:47:04 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:47:05 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:47:06 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:47:06 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:47:06 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:47:06 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:47:11 ] DEV[lora node] |Normal| {A}: Switch channel from 2 to 5
+
+[ May 21 09:47:11 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:47:11 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:47:11 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:47:12 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:47:13 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:47:13 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:47:13 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:47:13 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:47:18 ] DEV[lora node] |Normal| {A}: Switch channel from 5 to 7
+
+[ May 21 09:47:18 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:47:18 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:47:18 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:47:19 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:47:20 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:47:20 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:47:20 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:47:20 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:47:24 ] GW[seam-gw]: PULL DATA send
+
+[ May 21 09:47:25 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 6
+
+[ May 21 09:47:25 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:47:25 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:47:25 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:47:25 ] GW[seam-gw]: PULL ACK received
+
+[ May 21 09:47:26 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:47:27 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:47:27 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:47:27 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:47:27 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:47:32 ] DEV[lora node] |Normal| {A}: Switch channel from 6 to 2
+
+[ May 21 09:47:32 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:47:32 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:47:32 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:47:33 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:47:34 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:47:34 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:47:34 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:47:34 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:47:39 ] DEV[lora node] |Normal| {A}: Switch channel from 2 to 7
+
+[ May 21 09:47:39 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:47:39 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:47:39 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:47:40 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:47:41 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:47:41 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:47:41 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:47:41 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:47:46 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 5
+
+[ May 21 09:47:46 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:47:46 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:47:46 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:47:47 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:47:48 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:47:48 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:47:48 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:47:48 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:47:53 ] DEV[lora node] |Normal| {A}: Switch channel from 5 to 7
+
+[ May 21 09:47:53 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:47:53 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:47:53 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:47:54 ] GW[seam-gw]: PULL DATA send
+
+[ May 21 09:47:54 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:47:55 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:47:55 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:47:55 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:47:55 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:47:56 ] GW[seam-gw]: PULL ACK received
+
+[ May 21 09:48:00 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 6
+
+[ May 21 09:48:00 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:48:00 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:48:00 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:48:01 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:48:02 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:48:02 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:48:02 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:48:02 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:48:07 ] DEV[lora node] |Normal| {A}: Switch channel from 6 to 5
+
+[ May 21 09:48:07 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:48:07 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:48:07 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:48:08 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:48:09 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:48:09 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:48:09 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:48:09 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:48:14 ] DEV[lora node] |Normal| {A}: Switch channel from 5 to 1
+
+[ May 21 09:48:14 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:48:14 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:48:14 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:48:15 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:48:16 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:48:16 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:48:16 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:48:16 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:48:21 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 4
+
+[ May 21 09:48:21 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:48:21 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:48:21 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:48:22 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:48:23 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:48:23 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:48:23 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:48:23 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:48:24 ] GW[seam-gw]: PULL DATA send
+
+[ May 21 09:48:25 ] GW[seam-gw]: PULL ACK received
+
+[ May 21 09:48:28 ] DEV[lora node] |Normal| {A}: Switch channel from 4 to 5
+
+[ May 21 09:48:28 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:48:28 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:48:28 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:48:29 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:48:30 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:48:30 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:48:30 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:48:30 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:48:35 ] DEV[lora node] |Normal| {A}: Switch channel from 5 to 2
+
+[ May 21 09:48:35 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:48:35 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:48:35 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:48:36 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:48:37 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:48:37 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:48:37 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:48:37 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:48:42 ] DEV[lora node] |Normal| {A}: Switch channel from 2 to 1
+
+[ May 21 09:48:42 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:48:42 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:48:42 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:48:43 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:48:44 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:48:44 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:48:44 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:48:44 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:48:49 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 7
+
+[ May 21 09:48:49 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:48:49 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:48:49 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:48:50 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:48:51 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:48:51 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:48:51 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:48:51 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:48:54 ] GW[seam-gw]: PULL DATA send
+
+[ May 21 09:48:55 ] GW[seam-gw]: PULL ACK received
+
+[ May 21 09:48:56 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 6
+
+[ May 21 09:48:56 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:48:56 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:48:56 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:48:57 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:48:58 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:48:58 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:48:58 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:48:58 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:49:03 ] DEV[lora node] |Normal| {A}: Switch channel from 6 to 4
+
+[ May 21 09:49:03 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:49:03 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:49:03 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:49:04 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:49:05 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:49:05 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:49:05 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:49:05 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:49:10 ] DEV[lora node] |Normal| {A}: Switch channel from 4 to 6
+
+[ May 21 09:49:10 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:49:10 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:49:10 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:49:11 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:49:12 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:49:12 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:49:12 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:49:12 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:49:17 ] DEV[lora node] |Normal| {A}: Switch channel from 6 to 5
+
+[ May 21 09:49:17 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:49:17 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:49:17 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:49:18 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:49:19 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:49:19 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:49:19 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:49:19 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:49:24 ] GW[seam-gw]: PULL DATA send
+
+[ May 21 09:49:24 ] DEV[lora node] |Normal| {A}: Switch channel from 5 to 4
+
+[ May 21 09:49:24 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:49:24 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:49:24 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:49:25 ] GW[seam-gw]: PULL ACK received
+
+[ May 21 09:49:26 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:49:27 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:49:27 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:49:27 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:49:27 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:49:31 ] DEV[lora node] |Normal| {A}: Switch channel from 4 to 0
+
+[ May 21 09:49:31 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:49:31 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:49:31 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:49:32 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:49:33 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:49:33 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:49:33 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:49:33 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:49:38 ] DEV[lora node] |Normal| {A}: Switch channel from 0 to 3
+
+[ May 21 09:49:38 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:49:38 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:49:38 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:49:39 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:49:40 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:49:40 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:49:40 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:49:40 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:49:45 ] DEV[lora node] |Normal| {A}: Switch channel from 3 to 1
+
+[ May 21 09:49:45 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:49:45 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:49:45 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:49:46 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:49:47 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:49:47 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:49:47 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:49:47 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:49:52 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 3
+
+[ May 21 09:49:52 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:49:52 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:49:52 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:49:53 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:49:54 ] GW[seam-gw]: PULL DATA send
+
+[ May 21 09:49:54 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:49:54 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:49:54 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:49:54 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:49:55 ] GW[seam-gw]: PULL ACK received
+
+[ May 21 09:49:59 ] DEV[lora node] |Normal| {A}: Switch channel from 3 to 1
+
+[ May 21 09:49:59 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:49:59 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:49:59 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:50:00 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:01 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:50:01 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:50:01 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:50:01 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:50:06 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 3
+
+[ May 21 09:50:06 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:50:06 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:50:06 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:50:07 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:08 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:50:08 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:50:08 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:50:08 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:50:13 ] DEV[lora node] |Normal| {A}: Switch channel from 3 to 6
+
+[ May 21 09:50:13 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:50:13 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:50:13 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:50:14 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:15 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:50:15 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:50:15 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:50:15 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:50:20 ] DEV[lora node] |Normal| {A}: Switch channel from 6 to 2
+
+[ May 21 09:50:20 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:50:20 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:50:20 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:50:21 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:22 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:50:22 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:50:22 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:50:22 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:50:24 ] GW[seam-gw]: PULL DATA send
+
+[ May 21 09:50:25 ] GW[seam-gw]: PULL ACK received
+
+[ May 21 09:50:26 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:27 ] DEV[lora node] |Normal| {A}: Switch channel from 2 to 5
+
+[ May 21 09:50:27 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:50:27 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:50:27 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:50:27 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:50:27 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:50:28 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:29 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:30 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:31 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:32 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:33 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:34 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:35 ] DEV[lora node] |Normal| {A}: None downlinks Received
+
+[ May 21 09:50:35 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:36 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:37 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:38 ] DEV[lora node] |Normal| {A}: ACK Timeout
+
+[ May 21 09:50:38 ] DEV[lora node] |Retransmission| {A}: Switch channel from 5 to 3
+
+[ May 21 09:50:38 ] DEV[lora node] |Retransmission| {A}: Uplink sent
+
+[ May 21 09:50:38 ] DEV[lora node] |Retransmission| {A}: Open RXs
+
+[ May 21 09:50:38 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:50:38 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:39 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:40 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:41 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:42 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:43 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:44 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:45 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:46 ] DEV[lora node] |Retransmission| {A}: None downlinks Received
+
+[ May 21 09:50:46 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:47 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:48 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:49 ] DEV[lora node] |Retransmission| {A}: ACK Timeout
+
+[ May 21 09:50:49 ] DEV[lora node] |Retransmission| {A}: Switch channel from 3 to 7
+
+[ May 21 09:50:49 ] DEV[lora node] |Retransmission| {A}: Uplink sent
+
+[ May 21 09:50:49 ] DEV[lora node] |Retransmission| {A}: Open RXs
+
+[ May 21 09:50:49 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:50:49 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:50 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:51 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:52 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:53 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:54 ] GW[seam-gw]: PULL DATA send
+
+[ May 21 09:50:54 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:55 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:56 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:57 ] DEV[lora node] |Retransmission| {A}: None downlinks Received
+
+[ May 21 09:50:57 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:58 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:50:59 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:00 ] DEV[lora node] |Retransmission| {A}: ACK Timeout
+
+[ May 21 09:51:00 ] DEV[lora node] |Normal| {A} [ERROR]: Last Uplink sent 2 times
+
+[ May 21 09:51:00 ] DEV[lora node] |Activation| {A}: JOIN REQUEST sent
+
+[ May 21 09:51:00 ] DEV[lora node] |Activation| {A}: Open RXs
+
+[ May 21 09:51:00 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:51:00 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:01 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:02 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:03 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:04 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:05 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:06 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:07 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:08 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:09 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:10 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:11 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:12 ] DEV[lora node] |Activation| {A}: None downlink received
+
+[ May 21 09:51:12 ] DEV[lora node] |Activation| {A}: Unjoined
+
+[ May 21 09:51:12 ] DEV[lora node] |Activation| {A}: JOIN REQUEST sent
+
+[ May 21 09:51:12 ] DEV[lora node] |Activation| {A}: Open RXs
+
+[ May 21 09:51:12 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:51:12 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:13 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:14 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:15 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:16 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:17 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:18 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:19 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:20 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:21 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:22 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:23 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:24 ] GW[seam-gw]: PULL DATA send
+
+[ May 21 09:51:24 ] DEV[lora node] |Activation| {A}: None downlink received
+
+[ May 21 09:51:24 ] DEV[lora node] |Activation| {A}: Unjoined
+
+[ May 21 09:51:24 ] DEV[lora node] |Activation| {A}: JOIN REQUEST sent
+
+[ May 21 09:51:24 ] DEV[lora node] |Activation| {A}: Open RXs
+
+[ May 21 09:51:24 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:51:24 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:25 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:26 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:27 ] GW[seam-gw]: PULL ACK received
+
+[ May 21 09:51:28 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:29 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:30 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:31 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:32 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:33 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:34 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:35 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:36 ] DEV[lora node] |Activation| {A}: None downlink received
+
+[ May 21 09:51:36 ] DEV[lora node] |Activation| {A}: Unjoined
+
+[ May 21 09:51:36 ] DEV[lora node] |Activation| {A}: JOIN REQUEST sent
+
+[ May 21 09:51:36 ] DEV[lora node] |Activation| {A}: Open RXs
+
+[ May 21 09:51:36 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:51:36 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:37 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:38 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:39 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:40 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:41 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:51:41 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:51:41 ] DEV[lora node] |Activation| {A}: Downlink received
+
+[ May 21 09:51:41 ] DEV[lora node] |Activation| {A}: Apply CFList
+
+[ May 21 09:51:41 ] DEV[lora node] |Activation| {A}: Set Channel[3] { F[867100000], MinDR[0], MaxDR[5] }
+
+[ May 21 09:51:41 ] DEV[lora node] |Activation| {A}: Set Channel[4] { F[867300000], MinDR[0], MaxDR[5] }
+
+[ May 21 09:51:41 ] DEV[lora node] |Activation| {A}: Set Channel[5] { F[867500000], MinDR[0], MaxDR[5] }
+
+[ May 21 09:51:41 ] DEV[lora node] |Activation| {A}: Set Channel[6] { F[867700000], MinDR[0], MaxDR[5] }
+
+[ May 21 09:51:41 ] DEV[lora node] |Activation| {A}: Set Channel[7] { F[867900000], MinDR[0], MaxDR[5] }
+
+[ May 21 09:51:41 ] DEV[lora node] |Activation| {A}: Joined
+
+[ May 21 09:51:41 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 4
+
+[ May 21 09:51:41 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:51:41 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:51:41 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:51:42 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:43 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:44 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:45 ] DEV[lora node] |Normal| {A}: None downlinks Received
+
+[ May 21 09:51:45 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:46 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:47 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:48 ] DEV[lora node] |Normal| {A}: ACK Timeout
+
+[ May 21 09:51:48 ] DEV[lora node] |Retransmission| {A}: Switch channel from 4 to 7
+
+[ May 21 09:51:48 ] DEV[lora node] |Retransmission| {A}: Uplink sent
+
+[ May 21 09:51:48 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:51:48 ] DEV[lora node] |Retransmission| {A}: Open RXs
+
+[ May 21 09:51:48 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:49 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:50 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:51 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:52 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:53 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:54 ] GW[seam-gw]: PULL DATA send
+
+[ May 21 09:51:54 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:55 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:56 ] DEV[lora node] |Retransmission| {A}: None downlinks Received
+
+[ May 21 09:51:56 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:57 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:58 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:51:59 ] DEV[lora node] |Retransmission| {A}: ACK Timeout
+
+[ May 21 09:51:59 ] DEV[lora node] |Retransmission| {A}: Switch channel from 7 to 3
+
+[ May 21 09:51:59 ] DEV[lora node] |Retransmission| {A}: Uplink sent
+
+[ May 21 09:51:59 ] DEV[lora node] |Retransmission| {A}: Open RXs
+
+[ May 21 09:51:59 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:51:59 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:00 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:01 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:02 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:03 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:04 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:05 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:52:05 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:52:06 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:07 ] DEV[lora node] |Retransmission| {A}: None downlinks Received
+
+[ May 21 09:52:07 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:08 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:09 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:10 ] DEV[lora node] |Retransmission| {A}: ACK Timeout
+
+[ May 21 09:52:10 ] DEV[lora node] |Normal| {A} [ERROR]: Last Uplink sent 2 times
+
+[ May 21 09:52:10 ] DEV[lora node] |Activation| {A}: JOIN REQUEST sent
+
+[ May 21 09:52:10 ] DEV[lora node] |Activation| {A}: Open RXs
+
+[ May 21 09:52:10 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:52:10 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:11 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:12 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:13 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:14 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:15 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:16 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:17 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:18 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:19 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:20 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:21 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:22 ] DEV[lora node] |Activation| {A}: None downlink received
+
+[ May 21 09:52:22 ] DEV[lora node] |Activation| {A}: Unjoined
+
+[ May 21 09:52:22 ] DEV[lora node] |Activation| {A}: JOIN REQUEST sent
+
+[ May 21 09:52:22 ] DEV[lora node] |Activation| {A}: Open RXs
+
+[ May 21 09:52:22 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:52:22 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:23 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:24 ] GW[seam-gw]: PULL DATA send
+
+[ May 21 09:52:24 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:25 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:26 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:27 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:28 ] GW[seam-gw]: PULL ACK received
+
+[ May 21 09:52:29 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:30 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:31 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:52:31 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:52:32 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:33 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:34 ] DEV[lora node] |Activation| {A}: None downlink received
+
+[ May 21 09:52:34 ] DEV[lora node] |Activation| {A}: Unjoined
+
+[ May 21 09:52:34 ] DEV[lora node] |Activation| {A}: JOIN REQUEST sent
+
+[ May 21 09:52:34 ] DEV[lora node] |Activation| {A}: Open RXs
+
+[ May 21 09:52:34 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:52:34 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:35 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:36 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:37 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:38 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:39 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:40 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:41 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:42 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:43 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:44 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:45 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:46 ] DEV[lora node] |Activation| {A}: None downlink received
+
+[ May 21 09:52:46 ] DEV[lora node] |Activation| {A}: Unjoined
+
+[ May 21 09:52:46 ] DEV[lora node] |Activation| {A}: JOIN REQUEST sent
+
+[ May 21 09:52:46 ] DEV[lora node] |Activation| {A}: Open RXs
+
+[ May 21 09:52:46 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:52:46 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:47 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:48 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:49 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:50 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:51 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:52 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:53 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:54 ] GW[seam-gw]: PULL DATA send
+
+[ May 21 09:52:54 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:55 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:52:55 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:52:56 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:57 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:58 ] DEV[lora node] |Activation| {A}: None downlink received
+
+[ May 21 09:52:58 ] DEV[lora node] |Activation| {A}: Unjoined
+
+[ May 21 09:52:58 ] DEV[lora node] |Activation| {A}: JOIN REQUEST sent
+
+[ May 21 09:52:58 ] DEV[lora node] |Activation| {A}: Open RXs
+
+[ May 21 09:52:58 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:52:58 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:52:59 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:00 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:01 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:02 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:03 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:04 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:05 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:06 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:07 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:08 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:09 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:10 ] DEV[lora node] |Activation| {A}: None downlink received
+
+[ May 21 09:53:10 ] DEV[lora node] |Activation| {A}: Unjoined
+
+[ May 21 09:53:10 ] DEV[lora node] |Activation| {A}: JOIN REQUEST sent
+
+[ May 21 09:53:10 ] DEV[lora node] |Activation| {A}: Open RXs
+
+[ May 21 09:53:10 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:53:10 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:11 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:12 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:13 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:14 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:15 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:16 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:17 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:18 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:19 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:20 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:21 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:22 ] DEV[lora node] |Activation| {A}: None downlink received
+
+[ May 21 09:53:22 ] DEV[lora node] |Activation| {A}: Unjoined
+
+[ May 21 09:53:22 ] DEV[lora node] |Activation| {A}: JOIN REQUEST sent
+
+[ May 21 09:53:22 ] DEV[lora node] |Activation| {A}: Open RXs
+
+[ May 21 09:53:22 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:53:22 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:23 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:24 ] GW[seam-gw]: PULL DATA send
+
+[ May 21 09:53:24 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:25 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:26 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:27 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:28 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:29 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:30 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:31 ] GW[seam-gw]: PULL ACK received
+
+[ May 21 09:53:32 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:33 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:34 ] DEV[lora node] |Activation| {A}: None downlink received
+
+[ May 21 09:53:34 ] DEV[lora node] |Activation| {A}: Unjoined
+
+[ May 21 09:53:34 ] DEV[lora node] |Activation| {A}: JOIN REQUEST sent
+
+[ May 21 09:53:34 ] DEV[lora node] |Activation| {A}: Open RXs
+
+[ May 21 09:53:34 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:53:34 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:35 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:36 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:37 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:38 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:39 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:40 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:41 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:42 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:43 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:44 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:45 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:46 ] DEV[lora node] |Activation| {A}: None downlink received
+
+[ May 21 09:53:46 ] DEV[lora node] |Activation| {A}: Unjoined
+
+[ May 21 09:53:46 ] DEV[lora node] |Activation| {A}: JOIN REQUEST sent
+
+[ May 21 09:53:46 ] DEV[lora node] |Activation| {A}: Open RXs
+
+[ May 21 09:53:46 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:53:46 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:47 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:48 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:49 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:50 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:51 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:52 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:53 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:54 ] GW[seam-gw]: PULL DATA send
+
+[ May 21 09:53:54 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:55 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:56 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:57 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:58 ] DEV[lora node] |Activation| {A}: None downlink received
+
+[ May 21 09:53:58 ] DEV[lora node] |Activation| {A}: Unjoined
+
+[ May 21 09:53:58 ] DEV[lora node] |Activation| {A}: JOIN REQUEST sent
+
+[ May 21 09:53:58 ] DEV[lora node] |Activation| {A}: Open RXs
+
+[ May 21 09:53:58 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:53:58 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:53:59 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:54:00 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:54:01 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:54:02 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:54:03 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:54:04 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:54:05 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:54:05 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:54:05 ] DEV[lora node] |Activation| {A}: Downlink received
+
+[ May 21 09:54:05 ] DEV[lora node] |Activation| {A}: Apply CFList
+
+[ May 21 09:54:05 ] DEV[lora node] |Activation| {A}: Set Channel[3] { F[867100000], MinDR[0], MaxDR[5] }
+
+[ May 21 09:54:05 ] DEV[lora node] |Activation| {A}: Set Channel[4] { F[867300000], MinDR[0], MaxDR[5] }
+
+[ May 21 09:54:05 ] DEV[lora node] |Activation| {A}: Set Channel[5] { F[867500000], MinDR[0], MaxDR[5] }
+
+[ May 21 09:54:05 ] DEV[lora node] |Activation| {A}: Set Channel[6] { F[867700000], MinDR[0], MaxDR[5] }
+
+[ May 21 09:54:05 ] DEV[lora node] |Activation| {A}: Set Channel[7] { F[867900000], MinDR[0], MaxDR[5] }
+
+[ May 21 09:54:05 ] DEV[lora node] |Activation| {A}: Joined
+
+[ May 21 09:54:05 ] DEV[lora node] |Normal| {A}: Switch channel from 3 to 6
+
+[ May 21 09:54:05 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:54:05 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:54:05 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:54:06 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:54:07 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:54:07 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:54:08 ] GW[seam-gw]: PULL ACK received
+
+[ May 21 09:54:09 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:54:10 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:54:10 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:54:11 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:54:12 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:54:12 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:54:13 ] DEV[lora node] |Normal| {A}: None downlinks Received
+
+[ May 21 09:54:13 ] GW[seam-gw]: PULL ACK received
+
+[ May 21 09:54:14 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:54:15 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:54:15 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:54:16 ] DEV[lora node] |Normal| {A}: ACK Timeout
+
+[ May 21 09:54:16 ] DEV[lora node] |Retransmission| {A}: Switch channel from 6 to 0
+
+[ May 21 09:54:16 ] DEV[lora node] |Retransmission| {A}: Uplink sent
+
+[ May 21 09:54:16 ] DEV[lora node] |Retransmission| {A}: Open RXs
+
+[ May 21 09:54:16 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:54:16 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:54:17 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:54:17 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:54:18 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:54:19 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:54:19 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:54:20 ] GW[seam-gw]: PULL ACK received
+
+[ May 21 09:54:21 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:54:22 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:54:22 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:54:23 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:54:24 ] GW[seam-gw]: PULL DATA send
+
+[ May 21 09:54:24 ] DEV[lora node] |Retransmission| {A}: None downlinks Received
+
+[ May 21 09:54:24 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:54:24 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:54:25 ] GW[seam-gw]: PULL ACK received
+
+[ May 21 09:54:26 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:54:27 ] DEV[lora node] |Retransmission| {A}: ACK Timeout
+
+[ May 21 09:54:27 ] DEV[lora node] |Retransmission| {A}: Switch channel from 0 to 5
+
+[ May 21 09:54:27 ] DEV[lora node] |Retransmission| {A}: Uplink sent
+
+[ May 21 09:54:27 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:54:27 ] DEV[lora node] |Retransmission| {A}: Open RXs
+
+[ May 21 09:54:27 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:54:27 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:54:28 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:54:29 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:54:30 ] GW[seam-gw]: PULL ACK received
+
+[ May 21 09:54:31 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:54:35 ] DEV[lora node] |Retransmission| {A}: None downlinks Received
+
+[ May 21 09:54:38 ] DEV[lora node] |Retransmission| {A}: ACK Timeout
+
+[ May 21 09:54:38 ] DEV[lora node] |Normal| {A} [ERROR]: Last Uplink sent 2 times
+
+[ May 21 09:54:38 ] DEV[lora node] |Activation| {A}: JOIN REQUEST sent
+
+[ May 21 09:54:38 ] DEV[lora node] |Activation| {A}: Open RXs
+
+[ May 21 09:54:38 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:54:39 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:54:40 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:54:40 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:54:43 ] DEV[lora node] |Activation| {A}: Downlink received
+
+[ May 21 09:54:43 ] DEV[lora node] |Activation| {A}: Apply CFList
+
+[ May 21 09:54:43 ] DEV[lora node] |Activation| {A}: Set Channel[3] { F[867100000], MinDR[0], MaxDR[5] }
+
+[ May 21 09:54:43 ] DEV[lora node] |Activation| {A}: Set Channel[4] { F[867300000], MinDR[0], MaxDR[5] }
+
+[ May 21 09:54:43 ] DEV[lora node] |Activation| {A}: Set Channel[5] { F[867500000], MinDR[0], MaxDR[5] }
+
+[ May 21 09:54:43 ] DEV[lora node] |Activation| {A}: Set Channel[6] { F[867700000], MinDR[0], MaxDR[5] }
+
+[ May 21 09:54:43 ] DEV[lora node] |Activation| {A}: Set Channel[7] { F[867900000], MinDR[0], MaxDR[5] }
+
+[ May 21 09:54:43 ] DEV[lora node] |Activation| {A}: Joined
+
+[ May 21 09:54:43 ] DEV[lora node] |Normal| {A}: Switch channel from 5 to 1
+
+[ May 21 09:54:43 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:54:43 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:54:43 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:54:44 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:54:45 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:54:45 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:54:45 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:54:45 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:54:46 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 0
+
+[ May 21 09:54:46 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:54:46 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:54:46 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:54:47 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:54:48 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:54:48 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:54:50 ] DEV[lora node] |Normal| {A}: None downlinks Received
+
+[ May 21 09:54:53 ] DEV[lora node] |Normal| {A}: ACK Timeout
+
+[ May 21 09:54:53 ] DEV[lora node] |Retransmission| {A}: Switch channel from 0 to 7
+
+[ May 21 09:54:53 ] DEV[lora node] |Retransmission| {A}: Uplink sent
+
+[ May 21 09:54:53 ] DEV[lora node] |Retransmission| {A}: Open RXs
+
+[ May 21 09:54:53 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:54:54 ] GW[seam-gw]: PULL DATA send
+
+[ May 21 09:54:54 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:54:55 ] GW[seam-gw]: PULL ACK received
+
+[ May 21 09:55:01 ] DEV[lora node] |Retransmission| {A}: None downlinks Received
+
+[ May 21 09:55:04 ] DEV[lora node] |Retransmission| {A}: ACK Timeout
+
+[ May 21 09:55:04 ] DEV[lora node] |Retransmission| {A}: Switch channel from 7 to 2
+
+[ May 21 09:55:04 ] DEV[lora node] |Retransmission| {A}: Uplink sent
+
+[ May 21 09:55:04 ] DEV[lora node] |Retransmission| {A}: Open RXs
+
+[ May 21 09:55:04 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:55:05 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:55:12 ] DEV[lora node] |Retransmission| {A}: None downlinks Received
+
+[ May 21 09:55:15 ] DEV[lora node] |Retransmission| {A}: ACK Timeout
+
+[ May 21 09:55:15 ] DEV[lora node] |Normal| {A} [ERROR]: Last Uplink sent 2 times
+
+[ May 21 09:55:15 ] DEV[lora node] |Activation| {A}: JOIN REQUEST sent
+
+[ May 21 09:55:15 ] DEV[lora node] |Activation| {A}: Open RXs
+
+[ May 21 09:55:15 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:55:16 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:55:17 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:55:17 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:55:20 ] DEV[lora node] |Activation| {A}: Downlink received
+
+[ May 21 09:55:20 ] DEV[lora node] |Activation| {A}: Apply CFList
+
+[ May 21 09:55:20 ] DEV[lora node] |Activation| {A}: Set Channel[3] { F[867100000], MinDR[0], MaxDR[5] }
+
+[ May 21 09:55:20 ] DEV[lora node] |Activation| {A}: Set Channel[4] { F[867300000], MinDR[0], MaxDR[5] }
+
+[ May 21 09:55:20 ] DEV[lora node] |Activation| {A}: Set Channel[5] { F[867500000], MinDR[0], MaxDR[5] }
+
+[ May 21 09:55:20 ] DEV[lora node] |Activation| {A}: Set Channel[6] { F[867700000], MinDR[0], MaxDR[5] }
+
+[ May 21 09:55:20 ] DEV[lora node] |Activation| {A}: Set Channel[7] { F[867900000], MinDR[0], MaxDR[5] }
+
+[ May 21 09:55:20 ] DEV[lora node] |Activation| {A}: Joined
+
+[ May 21 09:55:21 ] DEV[lora node] |Normal| {A}: Switch channel from 2 to 1
+
+[ May 21 09:55:21 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:55:21 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:55:21 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:55:22 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:55:23 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:55:23 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:55:23 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:55:23 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:55:24 ] GW[seam-gw]: PULL DATA send
+
+[ May 21 09:55:25 ] GW[seam-gw]: PULL ACK received
+
+[ May 21 09:55:28 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 6
+
+[ May 21 09:55:28 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:55:28 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:55:28 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:55:29 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:55:30 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:55:30 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:55:30 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:55:30 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:55:35 ] DEV[lora node] |Normal| {A}: Switch channel from 6 to 1
+
+[ May 21 09:55:35 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:55:35 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:55:35 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:55:36 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:55:37 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:55:37 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:55:37 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:55:37 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:55:42 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 6
+
+[ May 21 09:55:42 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:55:42 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:55:42 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:55:43 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:55:44 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:55:44 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:55:44 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:55:44 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:55:49 ] DEV[lora node] |Normal| {A}: Switch channel from 6 to 0
+
+[ May 21 09:55:49 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:55:49 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:55:49 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:55:50 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:55:51 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:55:51 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:55:51 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:55:51 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:55:54 ] GW[seam-gw]: PULL DATA send
+
+[ May 21 09:55:55 ] GW[seam-gw]: PULL ACK received
+
+[ May 21 09:55:56 ] DEV[lora node] |Normal| {A}: Switch channel from 0 to 1
+
+[ May 21 09:55:56 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:55:56 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:55:56 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:55:57 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:55:58 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:55:58 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:55:58 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:55:58 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:56:03 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 4
+
+[ May 21 09:56:03 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:56:03 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:56:03 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:56:04 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:56:05 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:56:05 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:56:05 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:56:05 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:56:10 ] DEV[lora node] |Normal| {A}: Switch channel from 4 to 5
+
+[ May 21 09:56:10 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:56:10 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:56:10 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:56:11 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:56:12 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:56:12 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:56:12 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:56:12 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:56:17 ] DEV[lora node] |Normal| {A}: Switch channel from 5 to 1
+
+[ May 21 09:56:17 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:56:17 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:56:17 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:56:18 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:56:19 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:56:19 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:56:19 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:56:19 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:56:24 ] GW[seam-gw]: PULL DATA send
+
+[ May 21 09:56:24 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 0
+
+[ May 21 09:56:24 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:56:24 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:56:24 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:56:25 ] GW[seam-gw]: PULL ACK received
+
+[ May 21 09:56:26 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:56:27 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:56:27 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:56:27 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:56:27 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:56:31 ] DEV[lora node] |Normal| {A}: Switch channel from 0 to 7
+
+[ May 21 09:56:31 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:56:31 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:56:31 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:56:32 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:56:33 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:56:33 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:56:33 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:56:33 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:56:38 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 3
+
+[ May 21 09:56:38 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:56:38 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:56:38 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:56:39 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:56:40 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:56:40 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:56:40 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:56:40 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:56:45 ] DEV[lora node] |Normal| {A}: Switch channel from 3 to 0
+
+[ May 21 09:56:45 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:56:45 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:56:45 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:56:46 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:56:47 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:56:47 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:56:47 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:56:47 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:56:52 ] DEV[lora node] |Normal| {A}: Switch channel from 0 to 7
+
+[ May 21 09:56:52 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:56:52 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:56:52 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:56:53 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:56:54 ] GW[seam-gw]: PULL DATA send
+
+[ May 21 09:56:54 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:56:54 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:56:54 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:56:54 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:56:55 ] GW[seam-gw]: PULL ACK received
+
+[ May 21 09:56:59 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 4
+
+[ May 21 09:56:59 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:56:59 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:56:59 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:57:00 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:57:01 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:57:01 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:57:01 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:57:01 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:57:06 ] DEV[lora node] |Normal| {A}: Switch channel from 4 to 7
+
+[ May 21 09:57:06 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:57:06 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:57:06 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:57:07 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:57:08 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:57:08 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:57:08 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:57:08 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:57:13 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 5
+
+[ May 21 09:57:13 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:57:13 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:57:13 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:57:14 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:57:15 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:57:15 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:57:15 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:57:15 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:57:20 ] DEV[lora node] |Normal| {A}: Switch channel from 5 to 2
+
+[ May 21 09:57:20 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:57:20 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:57:20 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:57:21 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:57:22 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:57:22 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:57:22 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:57:22 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:57:24 ] GW[seam-gw]: PULL DATA send
+
+[ May 21 09:57:25 ] GW[seam-gw]: PULL ACK received
+
+[ May 21 09:57:27 ] DEV[lora node] |Normal| {A}: Switch channel from 2 to 0
+
+[ May 21 09:57:27 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:57:27 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:57:27 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:57:28 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:57:29 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:57:29 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:57:29 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:57:29 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:57:34 ] DEV[lora node] |Normal| {A}: Switch channel from 0 to 4
+
+[ May 21 09:57:34 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:57:34 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:57:34 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:57:35 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:57:36 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:57:36 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:57:36 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:57:36 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:57:41 ] DEV[lora node] |Normal| {A}: Switch channel from 4 to 7
+
+[ May 21 09:57:41 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:57:41 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:57:41 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:57:42 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:57:43 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:57:43 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:57:43 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:57:43 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:57:48 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 6
+
+[ May 21 09:57:48 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:57:48 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:57:48 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:57:49 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:57:50 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:57:50 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:57:50 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:57:50 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:57:54 ] GW[seam-gw]: PULL DATA send
+
+[ May 21 09:57:55 ] DEV[lora node] |Normal| {A}: Switch channel from 6 to 1
+
+[ May 21 09:57:55 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:57:55 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:57:55 ] GW[seam-gw]: PULL ACK received
+
+[ May 21 09:57:55 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:57:56 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:57:57 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:57:57 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:57:57 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:57:57 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:58:02 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 3
+
+[ May 21 09:58:02 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:58:02 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:58:02 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:58:03 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:58:04 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:58:04 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:58:04 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:58:04 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:58:09 ] DEV[lora node] |Normal| {A}: Switch channel from 3 to 6
+
+[ May 21 09:58:09 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:58:09 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:58:09 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:58:10 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:58:11 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:58:11 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:58:11 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:58:11 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:58:16 ] DEV[lora node] |Normal| {A}: Switch channel from 6 to 1
+
+[ May 21 09:58:16 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:58:16 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:58:16 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:58:17 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:58:18 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:58:18 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:58:18 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:58:18 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:58:23 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 4
+
+[ May 21 09:58:23 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:58:23 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:58:23 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:58:24 ] GW[seam-gw]: PULL DATA send
+
+[ May 21 09:58:24 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:58:25 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:58:25 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:58:25 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:58:25 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:58:26 ] GW[seam-gw]: PULL ACK received
+
+[ May 21 09:58:30 ] DEV[lora node] |Normal| {A}: Switch channel from 4 to 5
+
+[ May 21 09:58:30 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:58:30 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:58:30 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:58:31 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:58:32 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:58:32 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:58:32 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:58:32 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:58:37 ] DEV[lora node] |Normal| {A}: Switch channel from 5 to 1
+
+[ May 21 09:58:37 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:58:37 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:58:37 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:58:38 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:58:39 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:58:39 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:58:39 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:58:39 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:58:44 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 7
+
+[ May 21 09:58:44 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:58:44 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:58:44 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:58:45 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:58:46 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:58:46 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:58:46 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:58:46 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:58:51 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 1
+
+[ May 21 09:58:51 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:58:51 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:58:51 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:58:52 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:58:53 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:58:53 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:58:53 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:58:53 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:58:54 ] GW[seam-gw]: PULL DATA send
+
+[ May 21 09:58:55 ] GW[seam-gw]: PULL ACK received
+
+[ May 21 09:58:58 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 6
+
+[ May 21 09:58:58 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:58:58 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:58:58 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:58:59 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:59:00 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:59:00 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:59:00 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:59:00 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:59:05 ] DEV[lora node] |Normal| {A}: Switch channel from 6 to 5
+
+[ May 21 09:59:05 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:59:05 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:59:05 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:59:06 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:59:07 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:59:07 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:59:07 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:59:07 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:59:12 ] DEV[lora node] |Normal| {A}: Switch channel from 5 to 1
+
+[ May 21 09:59:12 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:59:12 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:59:12 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:59:13 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:59:14 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:59:14 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:59:14 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:59:14 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:59:19 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 4
+
+[ May 21 09:59:19 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:59:19 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:59:19 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:59:20 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:59:21 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:59:21 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:59:21 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:59:21 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:59:24 ] GW[seam-gw]: PULL DATA send
+
+[ May 21 09:59:25 ] GW[seam-gw]: PULL ACK received
+
+[ May 21 09:59:26 ] DEV[lora node] |Normal| {A}: Switch channel from 4 to 1
+
+[ May 21 09:59:26 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:59:26 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:59:26 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:59:27 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:59:28 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:59:28 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:59:28 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:59:28 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:59:33 ] DEV[lora node] |Normal| {A}: Switch channel from 1 to 7
+
+[ May 21 09:59:33 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:59:33 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:59:33 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:59:34 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:59:35 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:59:35 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:59:35 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:59:35 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:59:40 ] DEV[lora node] |Normal| {A}: Switch channel from 7 to 2
+
+[ May 21 09:59:40 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:59:40 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:59:40 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:59:41 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:59:42 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:59:42 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:59:42 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:59:42 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:59:47 ] DEV[lora node] |Normal| {A}: Switch channel from 2 to 0
+
+[ May 21 09:59:47 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:59:47 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:59:47 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:59:48 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:59:49 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:59:49 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:59:49 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:59:49 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 09:59:54 ] GW[seam-gw]: PULL DATA send
+
+[ May 21 09:59:54 ] DEV[lora node] |Normal| {A}: Switch channel from 0 to 4
+
+[ May 21 09:59:54 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 09:59:54 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 09:59:54 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 09:59:55 ] GW[seam-gw]: PULL ACK received
+
+[ May 21 09:59:56 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 09:59:57 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 09:59:57 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 09:59:57 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 09:59:57 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 10:00:01 ] DEV[lora node] |Normal| {A}: Switch channel from 4 to 5
+
+[ May 21 10:00:01 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 10:00:01 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 10:00:01 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 10:00:02 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 10:00:03 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 10:00:03 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 10:00:03 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 10:00:03 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 10:00:08 ] DEV[lora node] |Normal| {A}: Switch channel from 5 to 3
+
+[ May 21 10:00:08 ] DEV[lora node] |Normal| {A}: Uplink sent
+
+[ May 21 10:00:08 ] GW[seam-gw]: PUSH DATA send
+
+[ May 21 10:00:08 ] DEV[lora node] |Normal| {A}: Open RXs
+
+[ May 21 10:00:09 ] GW[seam-gw]: PUSH ACK received
+
+[ May 21 10:00:10 ] GW[seam-gw]: PULL RESP received
+
+[ May 21 10:00:10 ] GW[seam-gw]: TX ACK sent
+
+[ May 21 10:00:10 ] DEV[lora node] |Normal| {A}: Downlink Received
+
+[ May 21 10:00:10 ] DEV[lora node] |Normal| {A} [ERROR]: Invalid downlink counter
+
+[ May 21 10:00:13 ] GW[seam-gw]: Turn OFF
+
+[ May 21 10:00:13 ] DEV[lora node] |Normal| {A}: Turn OFF
+
+[ May 21 10:00:13 ] [SIM]: STOPPED
