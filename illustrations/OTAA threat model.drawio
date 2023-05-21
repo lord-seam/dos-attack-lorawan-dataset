@@ -1,0 +1,103 @@
+<mxfile host="Electron" modified="2023-04-26T09:44:34.212Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.1 Chrome/112.0.5615.87 Electron/24.1.2 Safari/537.36" etag="5LDtP-2e8wUeKCjC9uQz" version="21.2.1" type="device">
+  <diagram name="Page-1" id="Rt3--a3LmN1DoGf2E1wl">
+    <mxGraphModel dx="2284" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iKa1btNNobD-iFCbpPCx-9" value="End device" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iKa1btNNobD-iFCbpPCx-10" value="MITM Operator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iKa1btNNobD-iFCbpPCx-12" value="Gateway&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="140" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iKa1btNNobD-iFCbpPCx-13" value="Network Server" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iKa1btNNobD-iFCbpPCx-14" value="" style="endArrow=classic;html=1;fontColor=#FF3333;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iKa1btNNobD-iFCbpPCx-9" target="iKa1btNNobD-iFCbpPCx-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="450" as="sourcePoint" />
+            <mxPoint x="460" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iKa1btNNobD-iFCbpPCx-15" value="" style="endArrow=classic;html=1;fontColor=#FF3333;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iKa1btNNobD-iFCbpPCx-12" target="iKa1btNNobD-iFCbpPCx-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="450" as="sourcePoint" />
+            <mxPoint x="460" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iKa1btNNobD-iFCbpPCx-16" value="" style="endArrow=classic;html=1;fontColor=#FF3333;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iKa1btNNobD-iFCbpPCx-12" target="iKa1btNNobD-iFCbpPCx-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="450" as="sourcePoint" />
+            <mxPoint x="460" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iKa1btNNobD-iFCbpPCx-17" value="" style="endArrow=classic;html=1;fontColor=#FF3333;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iKa1btNNobD-iFCbpPCx-13" target="iKa1btNNobD-iFCbpPCx-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="450" as="sourcePoint" />
+            <mxPoint x="460" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iKa1btNNobD-iFCbpPCx-18" value="Join request &lt;sub&gt;x&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="25" y="360" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iKa1btNNobD-iFCbpPCx-19" value="join accept &lt;sub&gt;x&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="420" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iKa1btNNobD-iFCbpPCx-22" value="join accept &lt;sub&gt;x&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="270" y="430" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iKa1btNNobD-iFCbpPCx-23" value="DevNonce" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="480" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKa1btNNobD-iFCbpPCx-24" value="Join request &lt;sub&gt;x&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="220" y="370" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iKa1btNNobD-iFCbpPCx-26" value="Rogue Gateway" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="140" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iKa1btNNobD-iFCbpPCx-27" value="" style="endArrow=classic;startArrow=classic;html=1;fontColor=#FF3333;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="iKa1btNNobD-iFCbpPCx-23" target="iKa1btNNobD-iFCbpPCx-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="440" as="sourcePoint" />
+            <mxPoint x="340" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iKa1btNNobD-iFCbpPCx-28" value="" style="endArrow=classic;html=1;fontColor=#FF3333;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iKa1btNNobD-iFCbpPCx-26" target="iKa1btNNobD-iFCbpPCx-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="440" as="sourcePoint" />
+            <mxPoint x="340" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iKa1btNNobD-iFCbpPCx-29" value="join request &lt;sub&gt;k&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="260" y="240" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iKa1btNNobD-iFCbpPCx-30" value="" style="endArrow=classic;html=1;fontColor=#FF3333;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iKa1btNNobD-iFCbpPCx-26" target="iKa1btNNobD-iFCbpPCx-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="440" as="sourcePoint" />
+            <mxPoint x="340" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iKa1btNNobD-iFCbpPCx-31" value="Join accept &lt;sub&gt;m&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry y="230" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iKa1btNNobD-iFCbpPCx-32" value="" style="endArrow=classic;html=1;fontColor=#FF3333;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iKa1btNNobD-iFCbpPCx-10" target="iKa1btNNobD-iFCbpPCx-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="440" as="sourcePoint" />
+            <mxPoint x="340" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iKa1btNNobD-iFCbpPCx-33" value="Join accept &lt;sub&gt;m&lt;/sub&gt;&lt;br&gt;Join request &lt;sub&gt;k&lt;/sub&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="30" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKa1btNNobD-iFCbpPCx-34" value="" style="endArrow=classic;html=1;fontColor=#FF3333;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iKa1btNNobD-iFCbpPCx-26" target="iKa1btNNobD-iFCbpPCx-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="440" as="sourcePoint" />
+            <mxPoint x="340" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
