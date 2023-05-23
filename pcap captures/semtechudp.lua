@@ -31,13 +31,18 @@ function semtechudp_proto.dissector(buffer, pinfo, tree)
     subtree:add(fields.identifier, buffer(3,1))
     subtree:add(fields.packet_type, packet_types[identifier] or "Unknown")
 
-    if identifier == 0x00 or identifier == 0x05 then
+    if identifier == 0x00 or identifier == 0x02 or identifier == 0x05 then
         subtree:add(fields.gateway_eui, buffer(4,8))
+    end
+
+    if identifier == 0x00 or identifier == 0x05 then
         if buffer:len() > 12 then
             subtree:add(fields.json_payload, buffer(12))
         end
-    elseif identifier == 0x02 then
-        subtree:add(fields.gateway_eui, buffer(4,8))
+    elseif identifier == 0x03 then
+        if buffer:len() > 4 then
+            subtree:add(fields.json_payload, buffer(4))
+        end
     elseif identifier == 0x01 or identifier == 0x04 then
         -- No payload for PUSH_ACK and PULL_ACK
     else
