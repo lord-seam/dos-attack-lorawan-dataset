@@ -1,4 +1,5 @@
 #Denial of Service Attack Script that sends mutiple PULL_DATA headers to the Network Server 
+#python3 keepaliveflood.py 200 b4562d94afcda48d
 
 import sys
 import time
