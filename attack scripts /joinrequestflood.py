@@ -7,6 +7,8 @@ from Crypto.Cipher import AES
 import base64
 from scapy.all import *
 from Crypto.Hash import CMAC
+import random
+import time
 
 # Create an argument parser
 parser = argparse.ArgumentParser(description="Process max value for DevNonce_int.")
@@ -26,12 +28,13 @@ def aes128_cmac(key, data):
     cobj.update(data)
     return cobj.digest()
 
-
 # Convert hex dump to bytes
 byte_data = codecs.decode(hex_dump, 'hex')
 
 # Extract Semtech UDP Protocol header
-semtech_header = byte_data[:12]
+protocol_id = byte_data[:1]
+packet_id = byte_data[3:4]
+gateway_id = byte_data[4:12]
 
 # Find the start and end of the JSON object in bytes
 start = byte_data.find(b'{')
@@ -68,6 +71,12 @@ dst_port = 1700  # replace with your destination port
 start_time = time.time()
 
 for DevNonce_int in range(0, args.MaxValue):
+    # Generate a new random token
+    random_token = random.randint(0, 0xffff).to_bytes(2, byteorder='big')
+
+    # Construct the new Semtech header
+    semtech_header = protocol_id + random_token + packet_id + gateway_id
+
     DevNonce = DevNonce_int.to_bytes(2, byteorder='little')
     msg = struct.pack(">B8s8sH",
                       MHDR,
